@@ -4,6 +4,6 @@
 This site is currently being rebuilt. The `main` branch is serving a 
 maintenance page while the new version is in development.
 
-- **Live site:** [yourname.github.io](https://yourname.github.io)
+- **Live site:** [kailamayho.github.io](https://kailamayho.github.io)
 - **Archive of v1:** see the `v1-archive` branch
-- **Status:** In progress — estimated back [date]
+- **Status:** In progress — estimated back [03/19/2026]
